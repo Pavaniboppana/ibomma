@@ -1,0 +1,112 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.film {
+  background-color: #000;
+  color: white;
+}
+
+#films {
+  display: flex;
+  width: 100%;
+}
+
+.films1 {
+  width: 26%;
+  margin-left: 80px;
+}
+
+.films1 img {
+  margin: 50px 0; 
+  width: 250px;
+height: 360px;
+}
+
+.film2 {
+  width: 60%;
+}
+
+.films2 h1 {
+  font-size: 40px;
+  margin-top: 60px;
+}
+
+.films2 p {
+  font-size: 15px;
+  color: gray;
+  margin-top: 30px;
+}
+.films2 p span{
+  font-size: 15px;
+  color: white;
+}
+.films2 i {
+  margin-right: 10px; 
+}
+.btn1 {
+  width: 150px;
+  height: 50px;
+  color: white;
+  font-size: 15px;
+  border-radius: 5px;
+  border: 1px;
+  background-color: gray;
+  margin: 50px 15px 0 0;
+}
+
+.btn2 {
+  width: 230px;
+  height: 50px;
+  color: white;
+  font-size: 15px;
+  border-radius: 5px;
+  border: 1px;
+  margin: 50px 0 0 30px;
+  background-color: limegreen;
+}
+.block{
+  border-radius: 5px;
+  margin: 60px 80px;
+}
+.p1{
+  height: 70px;
+  background-color: red;
+}
+.p2{
+  height: 70px;
+  background-color: red;
+}
+.text{
+margin-left: 80px;
+padding-bottom: 50px;
+}
+.text span{
+  color:lime;
+  font-size: 15px;
+}
+.text p{
+color: gray;
+padding-top: 20px;
+font-size: 15px;
+}
+.foot{
+    height:80px;
+    background-color: #202124;
+    color:white;
+  }
+  .foot p{
+    padding-left: 80px;
+    padding-top: 30px;
+    font-size: 14px;
+    color: gray;
+  }
+  .foot span{
+    padding-left: 900px;
+    padding-top: 30px;
+    font-size: 14px;
+    color: gray;
+  }

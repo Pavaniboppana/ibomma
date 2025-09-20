@@ -26,10 +26,6 @@ function Bug() {
    </ol>
    <p>NOTE:We do not accept anyu movie requests at this moment. We'll ignore such kind of messages most of the times, repeated violators will be banned from our system.</p>
    </div>
-
-   <div className="foot">
-   <p>Contact | DMCA | T&C  <span>@2024 iBOMMA</span></p>
-        </div>
    </>
   )
 }

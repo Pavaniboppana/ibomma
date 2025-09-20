@@ -306,13 +306,6 @@ function Home() {
 
 
             </div>
-
-
-
-
-            <div className="foot">
-                <p>Contact | DMCA | T&C  <span>@2024 iBOMMA</span></p>
-            </div>
         </>
     )
 }
